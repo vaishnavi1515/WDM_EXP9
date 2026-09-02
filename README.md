@@ -27,4 +27,11 @@ for this purpose.
 
 ### Output:
 
+<img width="1137" height="451" alt="image" src="https://github.com/user-attachments/assets/1552ec33-b80d-4bbe-b885-c01731f0113f" />
+
+<img width="1119" height="429" alt="image" src="https://github.com/user-attachments/assets/64af93c8-86f8-4f72-b6f7-2dc8bc4ec14a" />
+
+<img width="1512" height="1074" alt="image" src="https://github.com/user-attachments/assets/f17cd919-274a-48b3-aa9c-eea5f52a1aff" />
+
 ### Result:
+Thus, the preprocessing technique on twitter data in Rapidminer has been implemented.
